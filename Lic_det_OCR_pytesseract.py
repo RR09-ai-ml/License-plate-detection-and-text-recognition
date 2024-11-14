@@ -4,7 +4,7 @@ import tkinter as tk
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract'
 
 # Read the image file
-# image = cv2.imread(r'C:\Users\Rakesh\Desktop\rakesh_yitm\Number-Plate-Recognition-Using-OpenCV-main\car2.jpg')
+# image = cv2.imread("give your own path.")
 
 def Camera_capture():
 
